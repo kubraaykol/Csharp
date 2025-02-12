@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\BasaksehirDeveloper\K1-Donguler\bin\Debug\net8.0-windows\K1-Donguler.exe
+C:\Users\hp\Desktop\BasaksehirDeveloper\K1-Donguler\bin\Debug\net8.0-windows\K1-Donguler.deps.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\K1-Donguler\bin\Debug\net8.0-windows\K1-Donguler.runtimeconfig.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\K1-Donguler\bin\Debug\net8.0-windows\K1-Donguler.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\K1-Donguler\bin\Debug\net8.0-windows\K1-Donguler.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\K1-Donguler\obj\Debug\net8.0-windows\K1_Donguler.Form1.resources
+C:\Users\hp\Desktop\BasaksehirDeveloper\K1-Donguler\obj\Debug\net8.0-windows\K1-Donguler.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\K1-Donguler\obj\Debug\net8.0-windows\K1-Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BasaksehirDeveloper\K1-Donguler\obj\Debug\net8.0-windows\K1-Donguler.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\K1-Donguler\obj\Debug\net8.0-windows\K1-Donguler.AssemblyInfo.cs
+C:\Users\hp\Desktop\BasaksehirDeveloper\K1-Donguler\obj\Debug\net8.0-windows\K1-Donguler.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\K1-Donguler\obj\Debug\net8.0-windows\K1-Donguler.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\K1-Donguler\obj\Debug\net8.0-windows\refint\K1-Donguler.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\K1-Donguler\obj\Debug\net8.0-windows\K1-Donguler.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\K1-Donguler\obj\Debug\net8.0-windows\K1-Donguler.genruntimeconfig.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\K1-Donguler\obj\Debug\net8.0-windows\ref\K1-Donguler.dll

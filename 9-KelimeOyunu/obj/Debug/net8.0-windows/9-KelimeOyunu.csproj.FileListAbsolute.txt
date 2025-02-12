@@ -1,0 +1,6 @@
+C:\Users\hp\Desktop\BasaksehirDeveloper\9-KelimeOyunu\obj\Debug\net8.0-windows\_9_KelimeOyunu.Form1.resources
+C:\Users\hp\Desktop\BasaksehirDeveloper\9-KelimeOyunu\obj\Debug\net8.0-windows\9-KelimeOyunu.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\9-KelimeOyunu\obj\Debug\net8.0-windows\9-KelimeOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BasaksehirDeveloper\9-KelimeOyunu\obj\Debug\net8.0-windows\9-KelimeOyunu.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\9-KelimeOyunu\obj\Debug\net8.0-windows\9-KelimeOyunu.AssemblyInfo.cs
+C:\Users\hp\Desktop\BasaksehirDeveloper\9-KelimeOyunu\obj\Debug\net8.0-windows\9-KelimeOyunu.csproj.CoreCompileInputs.cache

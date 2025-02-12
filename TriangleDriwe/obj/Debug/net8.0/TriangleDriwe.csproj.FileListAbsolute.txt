@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\BasaksehirDeveloper\TriangleDriwe\bin\Debug\net8.0\TriangleDriwe.exe
+C:\Users\hp\Desktop\BasaksehirDeveloper\TriangleDriwe\bin\Debug\net8.0\TriangleDriwe.deps.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\TriangleDriwe\bin\Debug\net8.0\TriangleDriwe.runtimeconfig.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\TriangleDriwe\bin\Debug\net8.0\TriangleDriwe.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\TriangleDriwe\bin\Debug\net8.0\TriangleDriwe.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\TriangleDriwe\obj\Debug\net8.0\TriangleDriwe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BasaksehirDeveloper\TriangleDriwe\obj\Debug\net8.0\TriangleDriwe.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\TriangleDriwe\obj\Debug\net8.0\TriangleDriwe.AssemblyInfo.cs
+C:\Users\hp\Desktop\BasaksehirDeveloper\TriangleDriwe\obj\Debug\net8.0\TriangleDriwe.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\TriangleDriwe\obj\Debug\net8.0\TriangleDriwe.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\TriangleDriwe\obj\Debug\net8.0\refint\TriangleDriwe.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\TriangleDriwe\obj\Debug\net8.0\TriangleDriwe.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\TriangleDriwe\obj\Debug\net8.0\TriangleDriwe.genruntimeconfig.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\TriangleDriwe\obj\Debug\net8.0\ref\TriangleDriwe.dll

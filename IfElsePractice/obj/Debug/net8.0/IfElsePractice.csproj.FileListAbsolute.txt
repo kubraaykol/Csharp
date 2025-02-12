@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\BasaksehirDeveloper\IfElsePractice\obj\Debug\net8.0\IfElsePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BasaksehirDeveloper\IfElsePractice\obj\Debug\net8.0\IfElsePractice.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\IfElsePractice\obj\Debug\net8.0\IfElsePractice.AssemblyInfo.cs
+C:\Users\hp\Desktop\BasaksehirDeveloper\IfElsePractice\obj\Debug\net8.0\IfElsePractice.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\IfElsePractice\bin\Debug\net8.0\IfElsePractice.exe
+C:\Users\hp\Desktop\BasaksehirDeveloper\IfElsePractice\bin\Debug\net8.0\IfElsePractice.deps.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\IfElsePractice\bin\Debug\net8.0\IfElsePractice.runtimeconfig.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\IfElsePractice\bin\Debug\net8.0\IfElsePractice.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\IfElsePractice\bin\Debug\net8.0\IfElsePractice.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\IfElsePractice\obj\Debug\net8.0\IfElsePractice.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\IfElsePractice\obj\Debug\net8.0\refint\IfElsePractice.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\IfElsePractice\obj\Debug\net8.0\IfElsePractice.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\IfElsePractice\obj\Debug\net8.0\IfElsePractice.genruntimeconfig.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\IfElsePractice\obj\Debug\net8.0\ref\IfElsePractice.dll

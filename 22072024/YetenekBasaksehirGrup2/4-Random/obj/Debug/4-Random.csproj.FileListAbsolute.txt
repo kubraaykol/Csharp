@@ -1,0 +1,10 @@
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\4-Random\bin\Debug\4-Random.exe.config
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\4-Random\bin\Debug\4-Random.exe
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\4-Random\bin\Debug\4-Random.pdb
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\4-Random\obj\Debug\4-Random.csproj.AssemblyReference.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\4-Random\obj\Debug\_4_Random.Form1.resources
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\4-Random\obj\Debug\_4_Random.Properties.Resources.resources
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\4-Random\obj\Debug\4-Random.csproj.GenerateResource.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\4-Random\obj\Debug\4-Random.csproj.CoreCompileInputs.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\4-Random\obj\Debug\4-Random.exe
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\4-Random\obj\Debug\4-Random.pdb

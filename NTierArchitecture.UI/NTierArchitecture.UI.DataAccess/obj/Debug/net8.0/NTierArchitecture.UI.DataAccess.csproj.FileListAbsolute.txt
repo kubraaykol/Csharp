@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\obj\Debug\net8.0\NTierArchitecture.UI.DataAccess.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\obj\Debug\net8.0\NTierArchitecture.UI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\obj\Debug\net8.0\NTierArchitecture.UI.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\obj\Debug\net8.0\NTierArchitecture.UI.DataAccess.AssemblyInfo.cs
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\obj\Debug\net8.0\NTierArchitecture.UI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\bin\Debug\net8.0\NTierArchitecture.UI.DataAccess.deps.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\bin\Debug\net8.0\NTierArchitecture.UI.DataAccess.runtimeconfig.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\bin\Debug\net8.0\NTierArchitecture.UI.DataAccess.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\bin\Debug\net8.0\NTierArchitecture.UI.DataAccess.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\bin\Debug\net8.0\NTierArchitecture.UI.Entities.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\bin\Debug\net8.0\NTierArchitecture.UI.Entities.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\obj\Debug\net8.0\NTierArc.9F05A7CD.Up2Date
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\obj\Debug\net8.0\NTierArchitecture.UI.DataAccess.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\obj\Debug\net8.0\refint\NTierArchitecture.UI.DataAccess.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\obj\Debug\net8.0\NTierArchitecture.UI.DataAccess.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\obj\Debug\net8.0\NTierArchitecture.UI.DataAccess.genruntimeconfig.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.DataAccess\obj\Debug\net8.0\ref\NTierArchitecture.UI.DataAccess.dll

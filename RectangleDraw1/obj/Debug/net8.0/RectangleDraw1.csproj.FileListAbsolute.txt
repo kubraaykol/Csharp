@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\BasaksehirDeveloper\RectangleDraw1\bin\Debug\net8.0\RectangleDraw1.exe
+C:\Users\hp\Desktop\BasaksehirDeveloper\RectangleDraw1\bin\Debug\net8.0\RectangleDraw1.deps.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\RectangleDraw1\bin\Debug\net8.0\RectangleDraw1.runtimeconfig.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\RectangleDraw1\bin\Debug\net8.0\RectangleDraw1.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\RectangleDraw1\bin\Debug\net8.0\RectangleDraw1.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\RectangleDraw1\obj\Debug\net8.0\RectangleDraw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BasaksehirDeveloper\RectangleDraw1\obj\Debug\net8.0\RectangleDraw1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\RectangleDraw1\obj\Debug\net8.0\RectangleDraw1.AssemblyInfo.cs
+C:\Users\hp\Desktop\BasaksehirDeveloper\RectangleDraw1\obj\Debug\net8.0\RectangleDraw1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\RectangleDraw1\obj\Debug\net8.0\RectangleDraw1.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\RectangleDraw1\obj\Debug\net8.0\refint\RectangleDraw1.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\RectangleDraw1\obj\Debug\net8.0\RectangleDraw1.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\RectangleDraw1\obj\Debug\net8.0\RectangleDraw1.genruntimeconfig.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\RectangleDraw1\obj\Debug\net8.0\ref\RectangleDraw1.dll

@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Entities\bin\Debug\net8.0\NTierArchitecture.UI.Entities.deps.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Entities\bin\Debug\net8.0\NTierArchitecture.UI.Entities.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Entities\bin\Debug\net8.0\NTierArchitecture.UI.Entities.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Entities\obj\Debug\net8.0\NTierArchitecture.UI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Entities\obj\Debug\net8.0\NTierArchitecture.UI.Entities.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Entities\obj\Debug\net8.0\NTierArchitecture.UI.Entities.AssemblyInfo.cs
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Entities\obj\Debug\net8.0\NTierArchitecture.UI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Entities\obj\Debug\net8.0\NTierArchitecture.UI.Entities.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Entities\obj\Debug\net8.0\refint\NTierArchitecture.UI.Entities.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Entities\obj\Debug\net8.0\NTierArchitecture.UI.Entities.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Entities\obj\Debug\net8.0\ref\NTierArchitecture.UI.Entities.dll

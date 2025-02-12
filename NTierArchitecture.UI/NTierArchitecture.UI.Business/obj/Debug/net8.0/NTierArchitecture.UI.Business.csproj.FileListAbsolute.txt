@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\obj\Debug\net8.0\NTierArchitecture.UI.Business.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\obj\Debug\net8.0\NTierArchitecture.UI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\obj\Debug\net8.0\NTierArchitecture.UI.Business.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\obj\Debug\net8.0\NTierArchitecture.UI.Business.AssemblyInfo.cs
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\obj\Debug\net8.0\NTierArchitecture.UI.Business.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\bin\Debug\net8.0\NTierArchitecture.UI.Business.deps.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\bin\Debug\net8.0\NTierArchitecture.UI.Business.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\bin\Debug\net8.0\NTierArchitecture.UI.Business.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\bin\Debug\net8.0\NTierArchitecture.UI.DataAccess.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\bin\Debug\net8.0\NTierArchitecture.UI.Entities.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\bin\Debug\net8.0\NTierArchitecture.UI.DataAccess.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\bin\Debug\net8.0\NTierArchitecture.UI.Entities.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\obj\Debug\net8.0\NTierArc.D2292C30.Up2Date
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\obj\Debug\net8.0\NTierArchitecture.UI.Business.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\obj\Debug\net8.0\refint\NTierArchitecture.UI.Business.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\obj\Debug\net8.0\NTierArchitecture.UI.Business.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\NTierArchitecture.UI\NTierArchitecture.UI.Business\obj\Debug\net8.0\ref\NTierArchitecture.UI.Business.dll

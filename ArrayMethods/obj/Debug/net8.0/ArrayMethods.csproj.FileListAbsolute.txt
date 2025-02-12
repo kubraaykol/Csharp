@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\BasaksehirDeveloper\ArrayMethods\bin\Debug\net8.0\ArrayMethods.exe
+C:\Users\hp\Desktop\BasaksehirDeveloper\ArrayMethods\bin\Debug\net8.0\ArrayMethods.deps.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\ArrayMethods\bin\Debug\net8.0\ArrayMethods.runtimeconfig.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\ArrayMethods\bin\Debug\net8.0\ArrayMethods.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\ArrayMethods\bin\Debug\net8.0\ArrayMethods.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\ArrayMethods\obj\Debug\net8.0\ArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BasaksehirDeveloper\ArrayMethods\obj\Debug\net8.0\ArrayMethods.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\ArrayMethods\obj\Debug\net8.0\ArrayMethods.AssemblyInfo.cs
+C:\Users\hp\Desktop\BasaksehirDeveloper\ArrayMethods\obj\Debug\net8.0\ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\ArrayMethods\obj\Debug\net8.0\ArrayMethods.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\ArrayMethods\obj\Debug\net8.0\refint\ArrayMethods.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\ArrayMethods\obj\Debug\net8.0\ArrayMethods.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\ArrayMethods\obj\Debug\net8.0\ArrayMethods.genruntimeconfig.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\ArrayMethods\obj\Debug\net8.0\ref\ArrayMethods.dll

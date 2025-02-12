@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\BasaksehirDeveloper\MultiplicationTables\bin\Debug\net8.0\MultiplicationTables.exe
+C:\Users\hp\Desktop\BasaksehirDeveloper\MultiplicationTables\bin\Debug\net8.0\MultiplicationTables.deps.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\MultiplicationTables\bin\Debug\net8.0\MultiplicationTables.runtimeconfig.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\MultiplicationTables\bin\Debug\net8.0\MultiplicationTables.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\MultiplicationTables\bin\Debug\net8.0\MultiplicationTables.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\MultiplicationTables\obj\Debug\net8.0\MultiplicationTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BasaksehirDeveloper\MultiplicationTables\obj\Debug\net8.0\MultiplicationTables.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\MultiplicationTables\obj\Debug\net8.0\MultiplicationTables.AssemblyInfo.cs
+C:\Users\hp\Desktop\BasaksehirDeveloper\MultiplicationTables\obj\Debug\net8.0\MultiplicationTables.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\MultiplicationTables\obj\Debug\net8.0\MultiplicationTables.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\MultiplicationTables\obj\Debug\net8.0\refint\MultiplicationTables.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\MultiplicationTables\obj\Debug\net8.0\MultiplicationTables.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\MultiplicationTables\obj\Debug\net8.0\MultiplicationTables.genruntimeconfig.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\MultiplicationTables\obj\Debug\net8.0\ref\MultiplicationTables.dll

@@ -1,0 +1,52 @@
+string isCompleted;
+while (true)
+{
+	Console.Write("\nBir sayı giriniz : ");
+	inputNumber = Convert.ToInt32(Console.ReadLine());
+
+	if (inputNumber >= 0 && inputNumber < 10)
+	{
+		Console.WriteLine("0 - 9 arasında (tek basamaklı) bir sayı girdiniz...");
+	}
+	else if (inputNumber >= 10 && inputNumber < 100)
+	{
+		Console.WriteLine("10 - 99 arasında (iki basamaklı) bir sayı girdiniz...");
+	}
+	else if (inputNumber >= 100 && inputNumber < 1000)
+	{
+		Console.WriteLine("100 - 999 arasında (üç basamaklı) bir sayı girdiniz...");
+	}
+	else
+	{
+		Console.WriteLine("4 veya daha fazla basamaklı bir sayı girdiniz...");
+	}
+
+
+	while (true)
+	{
+		Console.WriteLine("\n==================\n");
+		Console.Write("Devam etmek istiyor musunuz? (E/H) : ");
+		isCompleted = Console.ReadLine().ToLower();
+		if (isCompleted == "h")
+		{
+			break;
+		}
+		else if (isCompleted == "e")
+		{
+			break;
+		}
+		else
+		{
+			Console.WriteLine("Hatalı giriş yaptınız...");
+		}
+	}
+	if (isCompleted == "e")
+	{
+		continue;
+	}
+	else
+	{
+		Console.WriteLine("Çıkış yaptınız...");
+		break;
+	}
+}

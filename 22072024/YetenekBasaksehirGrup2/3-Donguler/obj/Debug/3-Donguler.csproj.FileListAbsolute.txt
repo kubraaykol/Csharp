@@ -1,0 +1,11 @@
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\3-Donguler\bin\Debug\3-Donguler.exe.config
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\3-Donguler\bin\Debug\3-Donguler.exe
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\3-Donguler\bin\Debug\3-Donguler.pdb
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\3-Donguler\obj\Debug\3-Donguler.csproj.AssemblyReference.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\3-Donguler\obj\Debug\_3_Donguler.Form1.resources
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\3-Donguler\obj\Debug\_3_Donguler.Properties.Resources.resources
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\3-Donguler\obj\Debug\3-Donguler.csproj.GenerateResource.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\3-Donguler\obj\Debug\3-Donguler.csproj.CoreCompileInputs.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\3-Donguler\obj\Debug\3-Donguler.exe
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\3-Donguler\obj\Debug\3-Donguler.pdb
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\3-Donguler\obj\Debug\_3_Donguler.Ornek1.resources

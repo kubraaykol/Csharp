@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\BasaksehirDeveloper\KDVHesapla\bin\Debug\net8.0-windows\KDVHesapla.exe
+C:\Users\hp\Desktop\BasaksehirDeveloper\KDVHesapla\bin\Debug\net8.0-windows\KDVHesapla.deps.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\KDVHesapla\bin\Debug\net8.0-windows\KDVHesapla.runtimeconfig.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\KDVHesapla\bin\Debug\net8.0-windows\KDVHesapla.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\KDVHesapla\bin\Debug\net8.0-windows\KDVHesapla.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\KDVHesapla\obj\Debug\net8.0-windows\KDVHesapla.Form1.resources
+C:\Users\hp\Desktop\BasaksehirDeveloper\KDVHesapla\obj\Debug\net8.0-windows\KDVHesapla.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\KDVHesapla\obj\Debug\net8.0-windows\KDVHesapla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BasaksehirDeveloper\KDVHesapla\obj\Debug\net8.0-windows\KDVHesapla.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\KDVHesapla\obj\Debug\net8.0-windows\KDVHesapla.AssemblyInfo.cs
+C:\Users\hp\Desktop\BasaksehirDeveloper\KDVHesapla\obj\Debug\net8.0-windows\KDVHesapla.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\KDVHesapla\obj\Debug\net8.0-windows\KDVHesapla.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\KDVHesapla\obj\Debug\net8.0-windows\refint\KDVHesapla.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\KDVHesapla\obj\Debug\net8.0-windows\KDVHesapla.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\KDVHesapla\obj\Debug\net8.0-windows\KDVHesapla.genruntimeconfig.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\KDVHesapla\obj\Debug\net8.0-windows\ref\KDVHesapla.dll

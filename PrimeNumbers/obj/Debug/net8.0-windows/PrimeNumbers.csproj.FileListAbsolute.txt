@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\BasaksehirDeveloper\PrimeNumbers\bin\Debug\net8.0-windows\PrimeNumbers.exe
+C:\Users\hp\Desktop\BasaksehirDeveloper\PrimeNumbers\bin\Debug\net8.0-windows\PrimeNumbers.deps.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\PrimeNumbers\bin\Debug\net8.0-windows\PrimeNumbers.runtimeconfig.json
+C:\Users\hp\Desktop\BasaksehirDeveloper\PrimeNumbers\bin\Debug\net8.0-windows\PrimeNumbers.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\PrimeNumbers\bin\Debug\net8.0-windows\PrimeNumbers.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\PrimeNumbers\obj\Debug\net8.0-windows\PrimeNumbers.Form1.resources
+C:\Users\hp\Desktop\BasaksehirDeveloper\PrimeNumbers\obj\Debug\net8.0-windows\PrimeNumbers.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\PrimeNumbers\obj\Debug\net8.0-windows\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BasaksehirDeveloper\PrimeNumbers\obj\Debug\net8.0-windows\PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\PrimeNumbers\obj\Debug\net8.0-windows\PrimeNumbers.AssemblyInfo.cs
+C:\Users\hp\Desktop\BasaksehirDeveloper\PrimeNumbers\obj\Debug\net8.0-windows\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\PrimeNumbers\obj\Debug\net8.0-windows\PrimeNumbers.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\PrimeNumbers\obj\Debug\net8.0-windows\refint\PrimeNumbers.dll
+C:\Users\hp\Desktop\BasaksehirDeveloper\PrimeNumbers\obj\Debug\net8.0-windows\PrimeNumbers.pdb
+C:\Users\hp\Desktop\BasaksehirDeveloper\PrimeNumbers\obj\Debug\net8.0-windows\PrimeNumbers.genruntimeconfig.cache
+C:\Users\hp\Desktop\BasaksehirDeveloper\PrimeNumbers\obj\Debug\net8.0-windows\ref\PrimeNumbers.dll

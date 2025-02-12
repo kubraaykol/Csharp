@@ -1,0 +1,16 @@
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\6-OgrenciTakip\bin\Debug\net8.0-windows\6-OgrenciTakip.exe
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\6-OgrenciTakip\bin\Debug\net8.0-windows\6-OgrenciTakip.deps.json
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\6-OgrenciTakip\bin\Debug\net8.0-windows\6-OgrenciTakip.runtimeconfig.json
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\6-OgrenciTakip\bin\Debug\net8.0-windows\6-OgrenciTakip.dll
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\6-OgrenciTakip\bin\Debug\net8.0-windows\6-OgrenciTakip.pdb
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\6-OgrenciTakip\obj\Debug\net8.0-windows\_6_OgrenciTakip.Form1.resources
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\6-OgrenciTakip\obj\Debug\net8.0-windows\6-OgrenciTakip.csproj.GenerateResource.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\6-OgrenciTakip\obj\Debug\net8.0-windows\6-OgrenciTakip.GeneratedMSBuildEditorConfig.editorconfig
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\6-OgrenciTakip\obj\Debug\net8.0-windows\6-OgrenciTakip.AssemblyInfoInputs.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\6-OgrenciTakip\obj\Debug\net8.0-windows\6-OgrenciTakip.AssemblyInfo.cs
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\6-OgrenciTakip\obj\Debug\net8.0-windows\6-OgrenciTakip.csproj.CoreCompileInputs.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\6-OgrenciTakip\obj\Debug\net8.0-windows\6-OgrenciTakip.dll
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\6-OgrenciTakip\obj\Debug\net8.0-windows\refint\6-OgrenciTakip.dll
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\6-OgrenciTakip\obj\Debug\net8.0-windows\6-OgrenciTakip.pdb
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\6-OgrenciTakip\obj\Debug\net8.0-windows\6-OgrenciTakip.genruntimeconfig.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\6-OgrenciTakip\obj\Debug\net8.0-windows\ref\6-OgrenciTakip.dll

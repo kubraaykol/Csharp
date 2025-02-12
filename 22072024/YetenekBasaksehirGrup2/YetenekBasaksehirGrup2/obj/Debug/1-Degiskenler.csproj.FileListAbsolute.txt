@@ -1,0 +1,11 @@
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\YetenekBasaksehirGrup2\bin\Debug\YetenekBasaksehirGrup2.exe.config
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\YetenekBasaksehirGrup2\bin\Debug\YetenekBasaksehirGrup2.exe
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\YetenekBasaksehirGrup2\bin\Debug\YetenekBasaksehirGrup2.pdb
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\YetenekBasaksehirGrup2\obj\Debug\1-Degiskenler.csproj.AssemblyReference.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\YetenekBasaksehirGrup2\obj\Debug\YetenekBasaksehirGrup2.Form1.resources
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\YetenekBasaksehirGrup2\obj\Debug\YetenekBasaksehirGrup2.Ornek1.resources
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\YetenekBasaksehirGrup2\obj\Debug\YetenekBasaksehirGrup2.Properties.Resources.resources
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\YetenekBasaksehirGrup2\obj\Debug\1-Degiskenler.csproj.GenerateResource.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\YetenekBasaksehirGrup2\obj\Debug\1-Degiskenler.csproj.CoreCompileInputs.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\YetenekBasaksehirGrup2\obj\Debug\YetenekBasaksehirGrup2.exe
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\YetenekBasaksehirGrup2\obj\Debug\YetenekBasaksehirGrup2.pdb

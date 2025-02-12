@@ -1,0 +1,10 @@
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\5-Metodla\bin\Debug\5-Metodla.exe.config
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\5-Metodla\bin\Debug\5-Metodla.exe
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\5-Metodla\bin\Debug\5-Metodla.pdb
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\5-Metodla\obj\Debug\5-Metodlar.csproj.AssemblyReference.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\5-Metodla\obj\Debug\_5_Metodla.Form1.resources
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\5-Metodla\obj\Debug\_5_Metodla.Properties.Resources.resources
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\5-Metodla\obj\Debug\5-Metodlar.csproj.GenerateResource.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\5-Metodla\obj\Debug\5-Metodlar.csproj.CoreCompileInputs.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\5-Metodla\obj\Debug\5-Metodla.exe
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\5-Metodla\obj\Debug\5-Metodla.pdb

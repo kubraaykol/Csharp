@@ -1,0 +1,12 @@
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\2-Diziler\bin\Debug\2-Diziler.exe.config
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\2-Diziler\bin\Debug\2-Diziler.exe
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\2-Diziler\bin\Debug\2-Diziler.pdb
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\2-Diziler\obj\Debug\2-Diziler.csproj.AssemblyReference.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\2-Diziler\obj\Debug\_2_Diziler.Form1.resources
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\2-Diziler\obj\Debug\_2_Diziler.Properties.Resources.resources
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\2-Diziler\obj\Debug\2-Diziler.csproj.GenerateResource.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\2-Diziler\obj\Debug\2-Diziler.csproj.CoreCompileInputs.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\2-Diziler\obj\Debug\2-Diziler.exe
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\2-Diziler\obj\Debug\2-Diziler.pdb
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\2-Diziler\obj\Debug\_2_Diziler.Form2.resources
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\2-Diziler\obj\Debug\_2_Diziler.Form3.resources

@@ -1,0 +1,16 @@
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\7-UrunSiparisFormu\bin\Debug\net8.0-windows\7-UrunSiparisFormu.exe
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\7-UrunSiparisFormu\bin\Debug\net8.0-windows\7-UrunSiparisFormu.deps.json
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\7-UrunSiparisFormu\bin\Debug\net8.0-windows\7-UrunSiparisFormu.runtimeconfig.json
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\7-UrunSiparisFormu\bin\Debug\net8.0-windows\7-UrunSiparisFormu.dll
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\7-UrunSiparisFormu\bin\Debug\net8.0-windows\7-UrunSiparisFormu.pdb
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\7-UrunSiparisFormu\obj\Debug\net8.0-windows\_7_UrunSiparisFormu.Form1.resources
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\7-UrunSiparisFormu\obj\Debug\net8.0-windows\7-UrunSiparisFormu.csproj.GenerateResource.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\7-UrunSiparisFormu\obj\Debug\net8.0-windows\7-UrunSiparisFormu.GeneratedMSBuildEditorConfig.editorconfig
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\7-UrunSiparisFormu\obj\Debug\net8.0-windows\7-UrunSiparisFormu.AssemblyInfoInputs.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\7-UrunSiparisFormu\obj\Debug\net8.0-windows\7-UrunSiparisFormu.AssemblyInfo.cs
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\7-UrunSiparisFormu\obj\Debug\net8.0-windows\7-UrunSiparisFormu.csproj.CoreCompileInputs.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\7-UrunSiparisFormu\obj\Debug\net8.0-windows\7-UrunSiparisFormu.dll
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\7-UrunSiparisFormu\obj\Debug\net8.0-windows\refint\7-UrunSiparisFormu.dll
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\7-UrunSiparisFormu\obj\Debug\net8.0-windows\7-UrunSiparisFormu.pdb
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\7-UrunSiparisFormu\obj\Debug\net8.0-windows\7-UrunSiparisFormu.genruntimeconfig.cache
+D:\KODLAMA\YTBasaksehirGrup2\YetenekBasaksehirGrup2\7-UrunSiparisFormu\obj\Debug\net8.0-windows\ref\7-UrunSiparisFormu.dll

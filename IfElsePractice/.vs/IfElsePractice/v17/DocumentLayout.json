@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\BasaksehirDeveloper\\IfElsePractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{150AA9AE-C9FE-42D6-B285-F818C5F66874}|..\\ArrayReferenceType\\ArrayReferenceType.csproj|c:\\users\\hp\\desktop\\basaksehirdeveloper\\arrayreferencetype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EA9BEF-D3EB-419E-997F-AAD903BD3CCD}|..\\ArrayDizi\\ArrayDizi.csproj|c:\\users\\hp\\desktop\\basaksehirdeveloper\\arraydizi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74C59E1-E45E-4F67-976B-C8F40D889A2D}|..\\SwichPractice2\\SwichPractice2.csproj|c:\\users\\hp\\desktop\\basaksehirdeveloper\\swichpractice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE1C9AE-ED95-48E3-A2A1-65663B71AE73}|IfElsePractice.csproj|C:\\Users\\hp\\Desktop\\BasaksehirDeveloper\\IfElsePractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE1C9AE-ED95-48E3-A2A1-65663B71AE73}|IfElsePractice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99457D50-075F-4899-89A2-DE8701699CF6}|..\\SwichPractice\\SwichPractice.csproj|c:\\users\\hp\\desktop\\basaksehirdeveloper\\swichpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 341,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\BasaksehirDeveloper\\ArrayReferenceType\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ArrayReferenceType\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\BasaksehirDeveloper\\ArrayReferenceType\\Program.cs",
+              "RelativeToolTip": "..\\ArrayReferenceType\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:16:58.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\BasaksehirDeveloper\\ArrayDizi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ArrayDizi\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\BasaksehirDeveloper\\ArrayDizi\\Program.cs",
+              "RelativeToolTip": "..\\ArrayDizi\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:34:36.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\BasaksehirDeveloper\\SwichPractice2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SwichPractice2\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\BasaksehirDeveloper\\SwichPractice2\\Program.cs",
+              "RelativeToolTip": "..\\SwichPractice2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:12:15.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\BasaksehirDeveloper\\SwichPractice\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SwichPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\BasaksehirDeveloper\\SwichPractice\\Program.cs",
+              "RelativeToolTip": "..\\SwichPractice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:09:59.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\BasaksehirDeveloper\\IfElsePractice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\BasaksehirDeveloper\\IfElsePractice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:49:03.203Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
